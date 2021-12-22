@@ -1,6 +1,6 @@
 <?php
 
-namespace gsu\helperurl;
+namespace portulac\helperurl;
 
 class HelperURL
 {
